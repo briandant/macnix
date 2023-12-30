@@ -13,6 +13,8 @@
     tree
     vscode
     wget
+    iterm2
+    rcm
   ];
 
   homebrew = {
@@ -37,8 +39,8 @@
     casks = [
       "firefox"
       "google-chrome"
-      "loom"
       "zoom"
+      "alfred"
     ];
   };
 }

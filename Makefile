@@ -1,4 +1,4 @@
-HOSTNAME=aeon
+HOSTNAME=fluxnip
 
 .PHONY: deploy
 deploy:
